@@ -1,4 +1,5 @@
 ### SYNCHRONOUS-UP-COUNTER
+Developed by:AADHITHAN B RegisterNumber: 212224040001
 
 **AIM:**
 
@@ -52,7 +53,7 @@ begin
 end
 endmodule
 ```
-Developed by:AADHITHAN B RegisterNumber: 212224040001
+
 */
 
 **RTL LOGIC UP COUNTER**
